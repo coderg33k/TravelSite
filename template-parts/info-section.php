@@ -1,7 +1,7 @@
 <!-- This is the start of info section -->
 <section class="info-section" id="aboutSection">
         <div class="infoBox">
-            <img src="./img/infobox-img.jpg" alt="beach chairs with umberellas on a beach." height="490px" width="50%" style="border: 1px solid #000;">
+            <img src="http://travel-site.local/wp-content/uploads/2022/05/infobox-img-scaled.jpg" alt="beach chairs with umberellas on a beach." height="490px" width="50%" style="border: 1px solid #000;">
         </div>
         <div class="infoBox infoTextbox">
             <h2>BOOK YOUR DREAM VACATION TODAY</h2>
@@ -12,3 +12,16 @@
         </div>
     </section>
     <!-- This is the end of info section -->
+    <!-- This is the start of banner section -->
+    <section class="bannerSection" >
+        <div class="bannerImg">
+            <div class="bannerCopy">
+                <h3>Book Today, Travel Tomorrow</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis sit voluptate beatae quisquam placeat aliquid non suscipit quibusdam!</p>
+                <div class="bannerBtn">
+                    <a href="#">BOOK</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- This is the end of banner section -->
